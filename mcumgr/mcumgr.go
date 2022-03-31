@@ -25,11 +25,12 @@ import (
 	"os/signal"
 	"syscall"
 
+	"recogni/newtmgr/cli"
+	"recogni/newtmgr/config"
+	"recogni/newtmgr/nmutil"
+	"recogni/nmxact/nmserial"
+
 	"mynewt.apache.org/newt/util"
-	"mynewt.apache.org/newtmgr/newtmgr/cli"
-	"mynewt.apache.org/newtmgr/newtmgr/config"
-	"mynewt.apache.org/newtmgr/newtmgr/nmutil"
-	"mynewt.apache.org/newtmgr/nmxact/nmserial"
 )
 
 func stopXport() {
