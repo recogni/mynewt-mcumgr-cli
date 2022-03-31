@@ -25,11 +25,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"recogni/nmxact/nmserial"
-
 	"github.com/recogni/newtmgr/newtmgr/cli"
 	"github.com/recogni/newtmgr/newtmgr/config"
 	"github.com/recogni/newtmgr/newtmgr/nmutil"
+	"github.com/recogni/newtmgr/nmxact/nmserial"
 
 	"mynewt.apache.org/newt/util"
 )
