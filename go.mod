@@ -1,4 +1,4 @@
-module github.com/apache/mynewt-mcumgr-cli
+module github.com/recogni/mynewt-mcumgr-cli
 
 go 1.12
 
