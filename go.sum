@@ -66,8 +66,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/raff/goble v0.0.0-20190909174656-72afc67d6a99/go.mod h1:CxaUhijgLFX0AROtH5mluSY71VqpjQBw9JXE2UKZmc4=
 github.com/raff/goble v0.0.0-20200327175727-d63360dcfd80 h1:IZkjNgPZXcE4USkGzmJQyHco3KFLmhcLyFdxCOiY6cQ=
 github.com/raff/goble v0.0.0-20200327175727-d63360dcfd80/go.mod h1:CxaUhijgLFX0AROtH5mluSY71VqpjQBw9JXE2UKZmc4=
-github.com/recogni/newtmgr v0.0.0-20220612054851-e66372ef195a h1:mi/9f5d0iI8ixqcA5qc3mXKeE3CCliZWhriQndN5Ht0=
-github.com/recogni/newtmgr v0.0.0-20220612054851-e66372ef195a/go.mod h1:qUNQJ6Jz87jAtOZzPWlKMK7WX/o7baHr8ubtcSwvSTc=
+github.com/recogni/newtmgr v0.0.0-20220614041041-174d7065cba2 h1:mreXmhvepBYP4hfVHE1j4GfzVd5pLzAc9PqIiDRWcls=
+github.com/recogni/newtmgr v0.0.0-20220614041041-174d7065cba2/go.mod h1:3RpcgAEQgBB4F13lip/NHyWCAc10opROi74xAoRlf44=
 github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0 h1:WOVbcRe5kFuLbhZdyz8PKVR6L22C6I48fWIUS5ucpGY=
 github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0/go.mod h1:x/rLuxedbWFDN497ZirUaDklkWz6JhZLjGdgurMysxM=
 github.com/russross/blackfriday v1.5.2/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
@@ -137,4 +137,6 @@ gopkg.in/yaml.v2 v2.2.4/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 mynewt.apache.org/newt v0.0.0-20200409145402-c5d1e422bfa3/go.mod h1:GTc1Q2t1eVSWNtTWGLyZW8UeRM81SQnq3urDorrJ6AA=
 mynewt.apache.org/newt v0.0.0-20201028015609-b57111dbd19f h1:ZZM0GfqgTGAtTWiBk/Xo0ePsBnbEDb5F1iKDII3OWDw=
 mynewt.apache.org/newt v0.0.0-20201028015609-b57111dbd19f/go.mod h1:0HULbbiMWkyIHsKyv3KozsdVzCZyK2lY9sjeexub4ac=
+mynewt.apache.org/newtmgr v0.0.0-20220506125027-c669e0d498fc h1:NZthbxONKgd8To5evsE8wH4a+NK+3aBWFlthajSOQio=
+mynewt.apache.org/newtmgr v0.0.0-20220506125027-c669e0d498fc/go.mod h1:qUNQJ6Jz87jAtOZzPWlKMK7WX/o7baHr8ubtcSwvSTc=
 rsc.io/pdf v0.1.1/go.mod h1:n8OzWcQ6Sp37PL01nO98y4iUCRdTGarVfzxY20ICaU4=
