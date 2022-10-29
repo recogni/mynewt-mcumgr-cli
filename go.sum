@@ -61,8 +61,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/raff/goble v0.0.0-20190909174656-72afc67d6a99 h1:JtoVdxWJ3tgyqtnPq3r4hJ9aULcIDDnPXBWxZsdmqWU=
 github.com/raff/goble v0.0.0-20190909174656-72afc67d6a99/go.mod h1:CxaUhijgLFX0AROtH5mluSY71VqpjQBw9JXE2UKZmc4=
-github.com/recogni/newtmgr v0.0.0-20220826165822-e6faf581edcf h1:6XOL2xuXF8Oj6bNh9R+a3G2U916EAm0KWydeWG8x04k=
-github.com/recogni/newtmgr v0.0.0-20220826165822-e6faf581edcf/go.mod h1:/FgxJtqzUVbfFuUMuVfzRLriytH61aYWgEdaoWap/mA=
+github.com/recogni/newtmgr v0.0.0-20221029190427-841bff35eef7 h1:dMkmZq5ztCFKayCHGULlYt4Q7bjS2p4gSaQNQ/o9lak=
+github.com/recogni/newtmgr v0.0.0-20221029190427-841bff35eef7/go.mod h1:/FgxJtqzUVbfFuUMuVfzRLriytH61aYWgEdaoWap/mA=
 github.com/rivo/uniseg v0.2.0 h1:S1pD9weZBuJdFmowNwbpi7BJ8TNftyUImj/0WQi72jY=
 github.com/rivo/uniseg v0.2.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
 github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0 h1:WOVbcRe5kFuLbhZdyz8PKVR6L22C6I48fWIUS5ucpGY=
